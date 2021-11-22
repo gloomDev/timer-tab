@@ -1,3 +1,3 @@
-Source code of [timer-tab.com](https://www.timer-tab.com).
+Fork of [timer-tab.com](https://www.timer-tab.com).
 
-It is ancient code progressively undergoing modernization.
+Intended for local use with some personal tweaks.
